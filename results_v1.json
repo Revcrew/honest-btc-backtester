@@ -1,0 +1,313 @@
+{
+  "full_2022-2026-09": {
+    "trades": 151,
+    "winrate_pct": 38.4,
+    "wins": 58,
+    "losses": 93,
+    "net_usd": -983.6,
+    "total_return_pct": -9.8,
+    "final_equity": 9016.39,
+    "profit_factor": 0.88,
+    "avg_win_usd": 128.2,
+    "avg_loss_usd": -90.53,
+    "expectancy_R_per_trade": -0.067,
+    "max_drawdown_pct": -21.9,
+    "by_reason": {
+      "stop": 84,
+      "take": 42,
+      "time": 25
+    }
+  },
+  "in_sample_2022-2024": {
+    "trades": 98,
+    "winrate_pct": 33.7,
+    "wins": 33,
+    "losses": 65,
+    "net_usd": -1953.13,
+    "total_return_pct": -19.5,
+    "final_equity": 8046.87,
+    "profit_factor": 0.66,
+    "avg_win_usd": 117.4,
+    "avg_loss_usd": -89.65,
+    "expectancy_R_per_trade": -0.222,
+    "max_drawdown_pct": -21.9,
+    "by_reason": {
+      "stop": 58,
+      "take": 21,
+      "time": 19
+    }
+  },
+  "out_of_sample_2025-2026-09": {
+    "trades": 53,
+    "winrate_pct": 47.2,
+    "wins": 25,
+    "losses": 28,
+    "net_usd": 1204.9,
+    "total_return_pct": 12.0,
+    "final_equity": 11204.85,
+    "profit_factor": 1.37,
+    "avg_win_usd": 177.04,
+    "avg_loss_usd": -115.04,
+    "expectancy_R_per_trade": 0.221,
+    "max_drawdown_pct": -9.3,
+    "by_reason": {
+      "stop": 26,
+      "take": 21,
+      "time": 6
+    }
+  },
+  "sensitivity": [
+    {
+      "rr": 1.5,
+      "atr_mult": 0.3,
+      "trades": 172,
+      "winrate_pct": 44.8,
+      "wins": 77,
+      "losses": 95,
+      "net_usd": -1035.05,
+      "total_return_pct": -10.4,
+      "final_equity": 8964.99,
+      "profit_factor": 0.89,
+      "avg_win_usd": 109.24,
+      "avg_loss_usd": -99.44,
+      "expectancy_R_per_trade": -0.06,
+      "max_drawdown_pct": -13.4,
+      "by_reason": {
+        "stop": 90,
+        "take": 67,
+        "time": 15
+      }
+    },
+    {
+      "rr": 1.5,
+      "atr_mult": 0.5,
+      "trades": 162,
+      "winrate_pct": 43.2,
+      "wins": 70,
+      "losses": 92,
+      "net_usd": -1074.04,
+      "total_return_pct": -10.7,
+      "final_equity": 8925.98,
+      "profit_factor": 0.87,
+      "avg_win_usd": 107.14,
+      "avg_loss_usd": -93.19,
+      "expectancy_R_per_trade": -0.066,
+      "max_drawdown_pct": -17.4,
+      "by_reason": {
+        "stop": 83,
+        "take": 59,
+        "time": 20
+      }
+    },
+    {
+      "rr": 1.5,
+      "atr_mult": 1.0,
+      "trades": 143,
+      "winrate_pct": 42.7,
+      "wins": 61,
+      "losses": 82,
+      "net_usd": -960.11,
+      "total_return_pct": -9.6,
+      "final_equity": 9039.95,
+      "profit_factor": 0.87,
+      "avg_win_usd": 107.21,
+      "avg_loss_usd": -91.46,
+      "expectancy_R_per_trade": -0.064,
+      "max_drawdown_pct": -13.9,
+      "by_reason": {
+        "stop": 71,
+        "take": 46,
+        "time": 26
+      }
+    },
+    {
+      "rr": 2.0,
+      "atr_mult": 0.3,
+      "trades": 169,
+      "winrate_pct": 40.8,
+      "wins": 69,
+      "losses": 100,
+      "net_usd": -37.47,
+      "total_return_pct": -0.4,
+      "final_equity": 9962.48,
+      "profit_factor": 1.0,
+      "avg_win_usd": 146.45,
+      "avg_loss_usd": -101.42,
+      "expectancy_R_per_trade": 0.007,
+      "max_drawdown_pct": -13.4,
+      "by_reason": {
+        "stop": 94,
+        "take": 56,
+        "time": 19
+      }
+    },
+    {
+      "rr": 2.0,
+      "atr_mult": 0.5,
+      "trades": 151,
+      "winrate_pct": 38.4,
+      "wins": 58,
+      "losses": 93,
+      "net_usd": -983.6,
+      "total_return_pct": -9.8,
+      "final_equity": 9016.39,
+      "profit_factor": 0.88,
+      "avg_win_usd": 128.2,
+      "avg_loss_usd": -90.53,
+      "expectancy_R_per_trade": -0.067,
+      "max_drawdown_pct": -21.9,
+      "by_reason": {
+        "stop": 84,
+        "take": 42,
+        "time": 25
+      }
+    },
+    {
+      "rr": 2.0,
+      "atr_mult": 1.0,
+      "trades": 138,
+      "winrate_pct": 40.6,
+      "wins": 56,
+      "losses": 82,
+      "net_usd": -764.92,
+      "total_return_pct": -7.6,
+      "final_equity": 9235.04,
+      "profit_factor": 0.9,
+      "avg_win_usd": 118.37,
+      "avg_loss_usd": -90.16,
+      "expectancy_R_per_trade": -0.05,
+      "max_drawdown_pct": -15.6,
+      "by_reason": {
+        "stop": 71,
+        "time": 37,
+        "take": 30
+      }
+    },
+    {
+      "rr": 2.5,
+      "atr_mult": 0.3,
+      "trades": 156,
+      "winrate_pct": 34.6,
+      "wins": 54,
+      "losses": 102,
+      "net_usd": -1326.99,
+      "total_return_pct": -13.3,
+      "final_equity": 8673.01,
+      "profit_factor": 0.86,
+      "avg_win_usd": 145.14,
+      "avg_loss_usd": -89.85,
+      "expectancy_R_per_trade": -0.093,
+      "max_drawdown_pct": -24.9,
+      "by_reason": {
+        "stop": 95,
+        "take": 36,
+        "time": 25
+      }
+    },
+    {
+      "rr": 2.5,
+      "atr_mult": 0.5,
+      "trades": 149,
+      "winrate_pct": 36.2,
+      "wins": 54,
+      "losses": 95,
+      "net_usd": -1007.58,
+      "total_return_pct": -10.1,
+      "final_equity": 8992.43,
+      "profit_factor": 0.88,
+      "avg_win_usd": 136.94,
+      "avg_loss_usd": -88.45,
+      "expectancy_R_per_trade": -0.067,
+      "max_drawdown_pct": -22.9,
+      "by_reason": {
+        "stop": 85,
+        "time": 33,
+        "take": 31
+      }
+    },
+    {
+      "rr": 2.5,
+      "atr_mult": 1.0,
+      "trades": 136,
+      "winrate_pct": 40.4,
+      "wins": 55,
+      "losses": 81,
+      "net_usd": 141.6,
+      "total_return_pct": 1.4,
+      "final_equity": 10141.57,
+      "profit_factor": 1.02,
+      "avg_win_usd": 140.05,
+      "avg_loss_usd": -93.35,
+      "expectancy_R_per_trade": 0.019,
+      "max_drawdown_pct": -14.6,
+      "by_reason": {
+        "stop": 70,
+        "time": 42,
+        "take": 24
+      }
+    },
+    {
+      "rr": 3.0,
+      "atr_mult": 0.3,
+      "trades": 156,
+      "winrate_pct": 33.3,
+      "wins": 52,
+      "losses": 104,
+      "net_usd": -1018.41,
+      "total_return_pct": -10.2,
+      "final_equity": 8981.6,
+      "profit_factor": 0.89,
+      "avg_win_usd": 159.47,
+      "avg_loss_usd": -89.53,
+      "expectancy_R_per_trade": -0.071,
+      "max_drawdown_pct": -23.5,
+      "by_reason": {
+        "stop": 97,
+        "time": 30,
+        "take": 29
+      }
+    },
+    {
+      "rr": 3.0,
+      "atr_mult": 0.5,
+      "trades": 149,
+      "winrate_pct": 35.6,
+      "wins": 53,
+      "losses": 96,
+      "net_usd": -257.15,
+      "total_return_pct": -2.6,
+      "final_equity": 9742.86,
+      "profit_factor": 0.97,
+      "avg_win_usd": 162.45,
+      "avg_loss_usd": -92.36,
+      "expectancy_R_per_trade": -0.015,
+      "max_drawdown_pct": -21.8,
+      "by_reason": {
+        "stop": 86,
+        "time": 37,
+        "take": 26
+      }
+    },
+    {
+      "rr": 3.0,
+      "atr_mult": 1.0,
+      "trades": 133,
+      "winrate_pct": 41.4,
+      "wins": 55,
+      "losses": 78,
+      "net_usd": 1022.5,
+      "total_return_pct": 10.2,
+      "final_equity": 11022.45,
+      "profit_factor": 1.14,
+      "avg_win_usd": 155.56,
+      "avg_loss_usd": -96.58,
+      "expectancy_R_per_trade": 0.084,
+      "max_drawdown_pct": -13.8,
+      "by_reason": {
+        "stop": 67,
+        "time": 49,
+        "take": 17
+      }
+    }
+  ]
+}
